@@ -14,7 +14,7 @@ In order to run a test one shoud execute the file `test.py` with the inputs `N` 
 ```console
 python test.py 9 8 3
 ```
-run solves a BABD system with (N+1) block rows with square blocks of size 8x2 with PARASOF.
+solves a BABD system with (N+1) block rows with square blocks of size 8x2 with PARASOF.
 
 ## Dependencies
 
